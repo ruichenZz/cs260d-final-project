@@ -7,8 +7,6 @@ git clone https://github.com/ruichenZz/cs260d-final-project.git
 cd cs260d-final-project
 ```
 
-Clone the AMBER repo into this parent repo and follow the instructions there to set up AMBER pipeline, download data, etc: https://github.com/junyangwang0410/AMBER
-
 ### 2. Create a Conda Environment
 
 Run the following commands to create and activate a Conda environment:
